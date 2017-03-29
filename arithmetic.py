@@ -14,9 +14,7 @@ adder(x,y)
 def subtracter(x,y):
 	print x - y
 
-<<<<<<< HEAD
-subtracter(x,y)
-=======
 subtracter(x,y)
 
->>>>>>> fixing-deletion
+
+
