@@ -11,3 +11,8 @@ def divider(x,y):
 
 divider(x,y)
 
+def adder(x,y):
+	print x + y
+
+adder(x,y)
+
