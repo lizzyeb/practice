@@ -1,4 +1,7 @@
-x = 2
+"""
+This program allows you to do simple arithmetic.
+"""
+
 y = 3
 z = 7
 
