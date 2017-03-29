@@ -2,6 +2,7 @@
 This program allows you to do simple arithmetic.
 """
 
+x = 2
 y = 3
 z = 7
 
