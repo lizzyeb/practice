@@ -16,3 +16,8 @@ def adder(x,y):
 
 adder(x,y)
 
+def subtracter(x,y):
+	print x - y
+
+subtracter(x,y)
+
