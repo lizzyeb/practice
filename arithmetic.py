@@ -1,5 +1,6 @@
 x = 2
 y = 3
+z = 7
 
 def multiplier(x,y):
 	print x * y
@@ -14,7 +15,7 @@ adder(x,y)
 def subtracter(x,y):
 	print x - y
 
-subtracter(x,y)
+subtracter(z,y)
 
 
 
